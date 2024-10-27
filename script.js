@@ -1,4 +1,5 @@
 "use strict";
+<<<<<<< HEAD
 
 const watchMovie = +prompt("Сколько вы фильмов уже посмотрели?", "");
 
